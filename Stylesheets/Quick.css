@@ -1,0 +1,47 @@
+﻿.row-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.col {
+    flex:1;
+}
+
+.item-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-direction: column;
+}
+
+.one {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.two {
+    display: flex;
+    justify-content: center;
+}
+
+.three {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.quick-border {
+    border: 1px solid;
+}
+
+.item-container :nth-child(1) {
+    order: 2;
+}
+
+.item-container :nth-child(2) {
+    order: 3;
+}
+
+.item-container :nth-child(3) {
+    order: 1;
+}

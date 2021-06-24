@@ -1,0 +1,60 @@
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Flexbox Activities.dll.config
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Flexbox Activities.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Flexbox Activities.pdb
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\csc.exe
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\csc.exe.config
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\csc.rsp
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\csi.exe
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\csi.rsp
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\System.AppContext.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\vbc.exe
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\vbc.exe.config
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\vbc.rsp
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\VBCSCompiler.exe
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Antlr3.Runtime.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Newtonsoft.Json.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Helpers.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Mvc.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Optimization.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Razor.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.WebPages.Deployment.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.WebPages.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.WebPages.Razor.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\WebGrease.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Helpers.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Mvc.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Optimization.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.Razor.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.WebPages.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.WebPages.Deployment.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Web.WebPages.Razor.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Newtonsoft.Json.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Antlr3.Runtime.pdb
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\obj\Debug\Flexbox Activities.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\obj\Debug\Flexbox Activities.csproj.CoreCompileInputs.cache
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\obj\Debug\Flexbox Activities.csproj.CopyComplete
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\obj\Debug\Flexbox Activities.dll
+C:\Users\craig\source\repos\Flexbox Activities\Flexbox Activities\obj\Debug\Flexbox Activities.pdb
